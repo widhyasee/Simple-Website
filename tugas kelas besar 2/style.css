@@ -1,0 +1,52 @@
+.header {
+    text-align: center;
+    background-color: #405d27;
+    color: white;
+    padding: 20px;
+}
+.header img {
+    width: 250px;
+}
+
+.navbar{
+    text-align: center;
+    background-color: #b2b2b2;
+    padding: 1px;
+}
+
+.navbar ul li{
+    display: inline-block;
+    margin-right: 10%;
+    color: black;
+}
+
+.sidebar {
+    display: flex;
+}
+
+.isi_sidebar {
+    text-align: justify;
+}
+.vertikal {
+    border-left: 5px solid;
+    height: 1000px;
+    width: 0px;
+    margin-left: 100px;
+}
+
+.content {
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.content img {
+    width: 150px;
+    
+}
+
+.footer {
+    text-align: center;
+    background-color: #405d27;
+    padding: 5px;
+    color: white;
+}
